@@ -1,5 +1,7 @@
 <p align="center">
-    [!(source/logo.svg)](https://ivanzhuk.pro/)
+    <a href = https://ivanzhuk.pro>
+        <img src= "source/logo.svg" alt=""/>
+    </a>
 </p>
 
 ---
