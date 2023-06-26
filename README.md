@@ -27,11 +27,11 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="skills">
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" height="50"/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="Cplusplus" height="50"/>&nbsp;
     <img src= "https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" height="50"/>&nbsp;
     <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="50"/>&nbsp;
     <img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" height="50"/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" height="50"/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" height="50"/>&nbsp;
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" height="50"/>
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="50"/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="50"/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" height="50"/>
 </div>
